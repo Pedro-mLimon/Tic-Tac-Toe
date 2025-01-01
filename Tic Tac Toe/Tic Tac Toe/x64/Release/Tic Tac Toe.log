@@ -1,0 +1,10 @@
+﻿  Juego.cpp
+C:\Users\pedro\source\repos\Tic Tac Toe\Tic Tac Toe\Juego.cpp(42,76): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\pedro\source\repos\Tic Tac Toe\Tic Tac Toe\Juego.cpp(42,69): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\pedro\source\repos\Tic Tac Toe\Tic Tac Toe\Juego.cpp(213,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+  Generando código
+  Compiler switch has changed, fall back to full compilation.
+  All 122 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Tic Tac Toe.vcxproj -> C:\Users\pedro\source\repos\Tic Tac Toe\x64\Release\Tic Tac Toe.exe
